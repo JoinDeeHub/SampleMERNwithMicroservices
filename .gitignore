@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Kubernetes / DevOps
+*.pem
+*.key
+kubeconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform (if used later)
+.terraform/
+terraform.tfstate*
