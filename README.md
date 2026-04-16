@@ -113,6 +113,7 @@ kubectl apply -f k8s/
 kubectl get pods
 kubectl get svc
 ```
+<img width="873" height="406" alt="Screenshot from 2026-04-16 10-00-00" src="https://github.com/user-attachments/assets/1ba5e341-b86a-4c8a-8fd1-d45f37f254d3" />
 
 ---
 
@@ -131,6 +132,7 @@ Open:
 ```
 http://localhost:8080
 ```
+<img width="1365" height="424" alt="Screenshot from 2026-04-16 10-02-36" src="https://github.com/user-attachments/assets/637da6c6-bd55-489c-a617-7f67b4d2fb2c" />
 
 ---
 
@@ -150,6 +152,8 @@ http://localhost:30007
 GET /health
 http://localhost:3001/health
 ```
+<img width="1365" height="424" alt="Screenshot from 2026-04-16 10-03-03" src="https://github.com/user-attachments/assets/fd179320-25f5-4281-a846-fd1513093dad" />
+
 
 ### Profile Service
 
@@ -157,6 +161,7 @@ http://localhost:3001/health
 GET /health
 http://localhost:3002/health
 ```
+<img width="1365" height="424" alt="Screenshot from 2026-04-16 10-03-30" src="https://github.com/user-attachments/assets/f3b2c7ca-29d0-4e4e-9aed-f6a535631f26" />
 
 ---
 
